@@ -1,4 +1,4 @@
-SaleID,Date,CustomerID,ProductID,Quantity,UnitPrice,Discount,SalesRepID,RegionID
+sale_id,sale_date,customer_id,product_id,quantity,unit_price,discount,sales_rep_id,region_id
 S00001,2023-01-20,C004,P004,5,56.81,0.1,SR02,R03
 S00002,2023-12-30,C001,P005,7,98.78,0.15,SR01,R01
 S00003,2022-05-10,C001,P006,3,97.12,0.15,SR01,R01

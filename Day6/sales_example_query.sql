@@ -1,3 +1,0 @@
-SELECT * FROM salestable;
-
--- Muutus.
