@@ -8,14 +8,14 @@
 
 -- 1.4. Compare average sale sum per item to average sale sum for all items 
 
--- 1.5. Filter out only items where annual sales is more than 10 000
+-- 1.5. Filter out only items where sales were more than 10 000
 
--- 1.6. What are annual sales by payment method?
+-- 1.6. What were sales by payment method?
 
 -- 1.7. Compare average sale sum by location to average sale sum
 
--- 1.8. What are annual sales by location?
+-- 1.8. What were sales by location?
 
--- 1.9. How many units per item were sold annually?
+-- 1.9. How many units per item were sold?
 
--- 1.10. Filter out only items where more than 3000 units were sold annually
+-- 1.10. Filter out only items where more than 3000 units were sold
